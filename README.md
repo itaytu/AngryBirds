@@ -33,3 +33,7 @@ Simple Unity Game - Angry Birds
 <li>In the fourth level, we've created another enemy which has an even higher resistance, and in order to kill it the player has to think smart and think of a strategy in order to success. We've added a new material with a higher mass also to this level.</li>
 </ul>
 <p><img src="https://github.com/itaytu/AngryBirds/blob/master/picture%20and%20gif/level%204.jpeg" alt="" /></p>
+<ul>
+<li>Assets from: https://opengameart.org/art-search?keys=monster </li>
+<li>Sound effects from: http://soundfxcenter.com/sound-effects/angry-birds/0</li>
+</ul>
